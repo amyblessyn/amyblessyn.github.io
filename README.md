@@ -1,5 +1,5 @@
 ## 👋 About Me
-I am a Data Analyst with hands-on experience using Python, SQL, and Excel for data analysis and reporting. I am currently expanding my skills in Tableau to build interactive dashboards and visual storytelling solutions. I am seeking entry to mid-level data analyst roles where I can contribute analytical insights and grow professionally.
+ I am a Data Analyst with hands-on experience using Excel, Power BI, SQL, and Python for data analysis and reporting. I am currently expanding my skills in Tableau to build interactive dashboards and visual storytelling solutions. I am seeking entry to mid-level data analyst roles where I can contribute analytical insights and grow professionally.
 
 ## 🛠 Technical Skills
 - **Programming & Analysis:** Python (Pandas, NumPy)
