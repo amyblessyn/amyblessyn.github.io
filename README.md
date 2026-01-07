@@ -1,6 +1,3 @@
-# Data Analyst Portfolio – [Amaka Blessing Ejibendu[RITA SALES REPORT - AMAKA EJIBENDU.xlsx](https://github.com/user-attachments/files/24471690/RITA.SALES.REPORT.-.AMAKA.EJIBENDU.xlsx)
-]
-
 ## 👋 About Me
 I am a Data Analyst with hands-on experience using Python, SQL, and Excel for data analysis and reporting. I am currently expanding my skills in Tableau to build interactive dashboards and visual storytelling solutions. I am seeking entry to mid-level data analyst roles where I can contribute analytical insights and grow professionally.
 
